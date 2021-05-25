@@ -6,15 +6,15 @@ This project is made using extensive use of tensorflow and react library for Jav
 
 React is javascript library that is used for building user interface for websites. The advantage of using react is that it helps in creating complex UI by combining isolated pieces of code called components. This makes the UI simple and efficient. React helps in changing and re-rendering components on change of data.
 
-![React](https://user-images.githubusercontent.com/78751003/119483887-14a24680-bd73-11eb-92fa-10da7c6f25bd.PNG)
 https://reactjs.org/
+![React](https://user-images.githubusercontent.com/78751003/119483887-14a24680-bd73-11eb-92fa-10da7c6f25bd.PNG)
 
 ## Tensorflow Javascript models
 
 Tensorflow.js is an open source library by google that helps in deploying machine learning onto a web browser. Javascript which is used widely in web development can also train, test, or run existing ML models thanks to tensorflow. Another added advantage of Tensorflow.js, is that it contains a number of pre trained models that can be used in a website with a few lines of code, eliminating the need or resourses and time for training ML model.
 
-![Tensorflow](https://user-images.githubusercontent.com/78751003/119484586-cc375880-bd73-11eb-84a2-da09e42224c1.PNG)
 https://www.tensorflow.org/js
+![Tensorflow](https://user-images.githubusercontent.com/78751003/119484586-cc375880-bd73-11eb-84a2-da09e42224c1.PNG)
 
 In the project directory, you can run:
 
