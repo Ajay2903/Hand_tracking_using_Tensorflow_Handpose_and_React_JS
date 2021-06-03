@@ -10,24 +10,3 @@ React is javascript library that is used for building user interface for website
 
 https://reactjs.org/
 
-## Tensorflow Javascript models
-
-Tensorflow.js is an open source library by google that helps in deploying machine learning onto a web browser. Javascript which is used widely in web development can also train, test, or run existing ML models thanks to tensorflow. Another added advantage of Tensorflow.js, is that it contains a number of pre trained models that can be used in a website with a few lines of code, eliminating the need or resourses and time for training ML model.
-
-![Tensorflow](https://user-images.githubusercontent.com/78751003/119484586-cc375880-bd73-11eb-84a2-da09e42224c1.PNG)
-
-https://www.tensorflow.org/js
-
-# Creating a React Enviroment
-![image](https://user-images.githubusercontent.com/78751003/120310161-b4bc1a80-c2f3-11eb-80ff-021e1f18edbb.png)
-The create-react-app command is a one step solution in creating a single page react working enviroment.It creates a frontend build pipeline, to use it with any backend. Under the hood, it uses Babel and webpack.
-
-
-# Working on App.js file
-App.js created during the react enviroment will hold the main structure of the app. It therefore requires all the required dependencies of tensorflow and react library.
-
-![image](https://user-images.githubusercontent.com/78751003/120310876-7c690c00-c2f4-11eb-85e3-d63e509bf454.png)
-
-The App.css is a seperate file for css styling. tensorflows hand-pose model is used in the project. React is imported for obvious reasons. The webcam component of the react app is is imported to interface with webcam needed for the project. The utilities.js file is another key component of the project. It draws the hand of the user using the key hand points that are detected by the tensorflow handpose model.
-
-
