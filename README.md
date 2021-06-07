@@ -23,7 +23,7 @@ https://reactjs.org/
 
 Tensorflow.js is a library of javascript by tensorflow developers at google to allow javascript users train and deploy machine learning models. It enebles the deployment of realtime machine learning and deep learning models directly on web browser. It also provides a number of pretrained models one of which is used on the project.
 
-![image](https://user-images.githubusercontent.com/78751003/120968887-1ca4b200-c787-11eb-883b-2ff11e562890.png)
+![image](https://user-images.githubusercontent.com/78751003/120968960-334b0900-c787-11eb-8f95-3a1e4893c9fc.png)
 
 https://www.tensorflow.org/js
 
