@@ -1,7 +1,8 @@
 # Handtracking using Tensorflow Javascript models and React.
 Tracks hand of the user using key hand point and connecting them accordingly.
 
-![image](https://user-images.githubusercontent.com/78751003/120967430-0d246980-c785-11eb-855b-0e33ce88ec84.png)     ![image](https://user-images.githubusercontent.com/78751003/120967441-1281b400-c785-11eb-86ff-8042e63a5895.png)
+![image](https://user-images.githubusercontent.com/78751003/120967523-2a593800-c785-11eb-9904-a809f8e31aca.png)    ![image](https://user-images.githubusercontent.com/78751003/120967534-2decbf00-c785-11eb-9a0f-46ca3a0a91c4.png)
+
 
 
 
