@@ -3,6 +3,9 @@ Tracks hand of the user using key hand point and connecting them accordingly.
 
 ![image](https://user-images.githubusercontent.com/78751003/120967523-2a593800-c785-11eb-9904-a809f8e31aca.png)    ![image](https://user-images.githubusercontent.com/78751003/120967534-2decbf00-c785-11eb-9a0f-46ca3a0a91c4.png)
 
+![image](https://user-images.githubusercontent.com/78751003/120967689-6be9e300-c785-11eb-8b80-4170a95e1015.png)    ![image](https://user-images.githubusercontent.com/78751003/120967825-a0f63580-c785-11eb-9f59-eaa127fbbf89.png)
+
+
 
 
 
