@@ -19,4 +19,11 @@ React is javascript library that is used for building user interface for website
 ![React](https://user-images.githubusercontent.com/78751003/119483887-14a24680-bd73-11eb-92fa-10da7c6f25bd.PNG)
 
 https://reactjs.org/
+## Tensorflow.js
+
+Tensorflow.js is a library of javascript by tensorflow developers at google to allow javascript users train and deploy machine learning models. It enebles the deployment of realtime machine learning and deep learning models directly on web browser. It also provides a number of pretrained models one of which is used on the project.
+
+![image](https://user-images.githubusercontent.com/78751003/120968887-1ca4b200-c787-11eb-883b-2ff11e562890.png)
+
+https://www.tensorflow.org/js
 
